@@ -55,7 +55,7 @@ TinyTimer is a native iOS application designed as an animated timer for toddlers
 - ✅ **Dynamic Island Integration**: Live timer countdown display with circular progress indicator
 - ✅ **Background Notifications**: "🎉 Time's Up!" alert with "Stop & Reset" action when timer completes in background
 - ✅ **Live Activities**: Real-time timer updates in Dynamic Island (compact, minimal, and expanded views)
-- ✅ **Confetti Celebration**: Full-screen slower-paced colorful confetti animation on timer completion using CAEmitterLayer, auto-starts with music, stops when screen is tapped or red "Reset" button is pressed
+- ✅ **Confetti Celebration**: Full-screen slower-paced colorful confetti animation with frequent, balanced-size firework explosions on timer completion using CAEmitterLayer, auto-starts with music, stops when screen is tapped or red "Reset" button is pressed
 
 ## App Summary
 TinyTimer is a **complete, production-ready iOS application** designed for toddlers and small children. The app successfully delivers on all original requirements with enhanced styling and polish:
